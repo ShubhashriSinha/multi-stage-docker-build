@@ -29,4 +29,4 @@ spec:
         - name: DEMO_GREETING
           value: "Hello from the environment"
         - name: DEMO_SECRET
-          value: "w2Fy0Kj3OjR0FvBIX0m04GHX"
+          value: "AKIA1234567890ABCDE"
