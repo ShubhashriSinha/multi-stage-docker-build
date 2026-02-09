@@ -25,3 +25,8 @@ spec:
             cpu: 500m
           requests:
             cpu: 200m
+        env:
+        - name: DEMO_GREETING
+          value: "Hello from the environment"
+        - name: DEMO_SECRET
+          value: "w2Fy0Kj3OjR0FvBIX0m04GHX"
