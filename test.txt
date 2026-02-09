@@ -1,0 +1,7 @@
+- name: DEMO_SECRET
+  value: |
+    -----BEGIN RSA PRIVATE KEY-----
+    MIIEpAIBAAKCAQEAvb0pY5Y2k9vLw0bJXk6d7gZzR9H2j3Lq7w8e9r0t1y2u3v4
+    dGhpcyBpcyBhIHRlc3Qga2V5IGZvciBnaXRodWIgc2VjcmV0IHNjYW5uaW5n
+    8a7sd8a7sd8a7sd8a7sd8a7sd8a7sd8a7sd8a7sd8a7sd8a7sd8a7sd8a7sd
+    -----END RSA PRIVATE KEY-----
